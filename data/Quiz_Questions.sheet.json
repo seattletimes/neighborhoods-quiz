@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "question": "On a night out, I prefer to wear …",
+    "image": "clothing.jpg"
+  },
+  {
+    "id": 2,
+    "question": "What’s your top priority when looking for an apartment?",
+    "image": "apartment.jpg"
+  },
+  {
+    "id": 3,
+    "question": "How often do you go out? ",
+    "image": "goingout.jpg"
+  },
+  {
+    "id": 4,
+    "question": "You’ll likely get around by …",
+    "image": "transportation.jpg"
+  },
+  {
+    "id": 5,
+    "question": "Your ideal car is …",
+    "image": "car.jpg"
+  },
+  {
+    "id": 6,
+    "question": "Pick your drink:",
+    "image": "drinks.jpg"
+  },
+  {
+    "id": 7,
+    "question": "Who’s your favorite classic Seattle artist?",
+    "image": "celebs.jpg"
+  },
+  {
+    "id": 8,
+    "question": "Which movie would you like to live in?",
+    "image": "movies.jpg"
+  }
+]

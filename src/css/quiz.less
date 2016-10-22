@@ -1,0 +1,156 @@
+.quiz-container {
+  width: 840px;
+  margin: auto;
+
+  @media @break {
+    width: 100%;
+  }
+}
+
+button {
+  background: @df-border-gray;
+  font-family: @body;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  font-size: 0.9em;
+  -webkit-font-smoothing: antialiased;
+  transition: background 0.2s linear;
+
+  @media @break {
+    padding: 8px 20px 10px 20px;
+  }
+
+  &.active {
+    background: @submit-color;
+    cursor: pointer;
+    
+    &:hover {
+      background: darken(@submit-color, 10%);
+    }
+  }
+}
+
+.quiz-box {
+  padding: 30px 10px;
+}
+
+.index {
+  color: @df-middle-gray;
+  font-size: 14px;
+}
+
+.question-box {
+  padding: 0 30px;
+  display: inline-block;
+  
+  .inner {
+
+    @media @break {
+      padding: 25px 40px;
+    }
+
+    @media @mobile {
+      padding: 25px 15px;
+    }
+  }
+
+  .inset-image {
+    margin-left: 40px;
+    width: 200px;
+    float: left;
+    margin-right: 60px;
+  }
+
+  .question-inner {
+    display: inline-block;
+    width: 50%;
+
+    @media @mobile {
+      width: 100%;
+      padding-top: 20px;
+    }
+
+    .question, .answer {
+      font-weight: 600;
+      font-size: 1.4em;
+    }
+
+    .answer {
+      .answer-box {
+        margin-top: 10px;
+        margin-bottom: 15px;
+
+        .correct-answer {
+          font-size: 24px;
+        }
+
+        .description {
+          font-size: 18px;
+          margin: 10px 0 20px;
+          font-weight: 400;
+        }
+      }
+    }
+
+    input {
+      display: none;
+
+      & + label::before {
+        font: normal normal normal 14px/1 FontAwesome;
+        text-rendering: auto;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        content: "\f1db";
+        margin-right: 8px;
+      }
+
+      &:checked + label::before {
+        content: "\f111";
+        color: @radio-color;
+      }
+    }
+
+    label {
+      cursor: pointer;
+      color: @body-color;
+      font-weight: 600;
+
+      @media @mobile {
+        font-size: 16px;
+        padding: 8px;
+        padding-right: 0;
+      }
+    }
+  }
+}
+
+.result-name {
+  font-weight: 600;
+  font-size: 1.4em;
+  line-height: 1.2em;
+  margin: 10px 0;
+}
+
+.result-description {
+  font-family: @body;
+  margin: 0 auto 1em auto;
+  font-size: 1.1em;
+  color: @body-color;
+  padding-bottom: 10px;
+}
+
+.results-image {
+  width: 100%;
+  clear: both;
+
+  .photo-credit {
+    font-size: 12px;
+    color: @df-middle-gray;
+    text-transform: uppercase;
+    margin: 0;
+  }
+}
+

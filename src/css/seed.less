@@ -1,0 +1,145 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@import "seattletimes";
+@import "page";
+@import "flexbox";
+@import "quiz";
+@import "gallery";
+
+// FONTS
+
+@body: @df-sans;
+@special: 'Paytone One', sans-serif;
+
+// COLORS
+
+@first-title-color: @df-blue;
+@second-title-color: @df-orange;
+@body-color: @df-dark-gray;
+@radio-color: @df-orange;
+@submit-color: @df-blue;
+
+
+// Top
+
+.quiz-label {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-family: @special;
+  font-weight: normal;
+  color: white;
+  background: @df-dark-gray;
+  display: inline-block;
+  padding: 5px 8px;
+  margin: 5px auto 0;
+
+  @media @tablet {
+    font-size: 14px;
+  }
+}
+
+.title {
+  color: @first-title-color;
+  font-family: @special;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  font-size: 3em;
+  line-height: 1.2em;
+  margin: 5px auto;
+
+  @media @mobile {
+    font-size: 2.5em;
+    line-height: 1em;
+    margin-bottom: 0;
+  }
+
+  .secondary {
+    font-size: 1.5em;
+    display: block;
+    color: @second-title-color;
+
+    @media @mobile {
+      font-size: inherit;
+    }
+  }
+}
+
+.chatter {
+  color: @body-color;
+  text-align: center;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+// Middle
+
+.divider {
+  border: 4px solid @df-border-gray;
+}
+
+.highlight {
+  font-family: @special;
+  font-weight: 400;
+  text-transform: uppercase;
+
+  &.wrong {
+    color: #e12329;
+  }
+
+  &.correct {
+    color: #589040;
+  }
+}
+
+// Share buttons
+
+.share-button, .share-results {
+  &.sharer-0 label {
+    padding: 6px 10px !important;
+    margin-left: 2px;
+    color: @df-dark-gray !important;
+    background: @df-light-gray !important;
+
+    &:hover {
+      background: @df-border-gray !important;
+      color: @df-charcoal !important;
+    }
+  }
+}
+
+.share-button {
+  margin: auto;
+  margin-top: 10px;
+
+}
+.share-results {
+  margin-top: 10px;
+
+  &.sharer-0 {
+    width: 150px !important;
+  }
+}
+
+// Bottom
+
+.credits, .sources {
+  font-size: 0.8em;
+  text-align: center;
+  padding-top: 15px;
+
+  .credit-name {
+    font-weight: 700;
+  }
+}
+
+.sources {
+  a {
+    cursor: pointer;
+  }
+}

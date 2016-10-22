@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Columbia City",
+    "description": "Some people call it urban renewal; <a href=\"http://www.seattletimes.com/pacific-nw-magazine/as-the-city-grapples-with-growth-one-question-lingers-whom-is-seattle-being-built-for/\">others call it gentrification</a>. Few neighborhoods in Seattle have transformed more in the past 15 years than Columbia City. (Key exception: South Lake Union.)\nIts convenient South Seattle location – on major bus lines and near light rail – plus historic brick storefronts have attracted a variety of retail and commercial ventures, including a small neighborhood cinema, a bike shop, an ice cream and videogame arcade, numerous restaurants and bars, consignment and gift shops, a gallery, and a couple of live-music venues. Other attractions are a weekly farmers market (May-October), community and cultural centers, a historic branch library and a dog park a bone’s throw away in Genesee.\nRecently, the addition of a PCC and high-rise apartments have increased density, and altered the once-small-scale streetscape. But longtime residents still like Columbia City’s walkability; its mix of people representing many races, religions and incomes; and its friendly, neighborhood feel.  ",
+    "image": "ColumbiaCity01.JPG",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "columbia-city"
+  },
+  {
+    "id": 2,
+    "title": "Denny Triangle",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name"
+  },
+  {
+    "id": 3,
+    "title": "Downtown Bellevue",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "bellevue"
+  },
+  {
+    "id": 4,
+    "title": "Downtown Renton",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name"
+  },
+  {
+    "id": 5,
+    "title": "First Hill and Capitol Hill",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "first-capitol-hill"
+  },
+  {
+    "id": 6,
+    "title": "Frelard",
+    "description": "“Frelard.” “Where?” That’s generally how conversations about this lesser-known, liminal neighborhood go. Nestled just between Fremont and Ballard, and south of Phinney Ridge, Frelard (pronounced “free-lard”) offers a relatively quiet pocket where families and free parking abound. Maybe you’ve heard of it via Frelard Pizza Company, a landmark of the area that has set the quirky neighborhood name in stone – perhaps to the dismay of some of its residents who call their home “West Woodland” and other names. \nHowever you feel about the neighborhood’s name, the place has plenty to offer in terms of convenience and geographical position: it’s about a mile away from each of the above neighborhoods, walkable to a Fred Meyer, right along the Burke-Gilman Trail and close to bus lines that will zip you right to Downtown Seattle. The area is a little more bare-bones in terms of businesses – Frelard Pizza, a couple barbecue spots and breweries are among the main attractions – but you are a mile away from Fremont and Ballard, after all. Just hop on a bike along the Burke-Gilman and you’ll be there in a jiffy.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name"
+  },
+  {
+    "id": 7,
+    "title": "Green Lake",
+    "description": "Summed up in one word, Green Lake is recreation. The neighborhood is defined by what it surrounds: a natural oasis that takes 2.8 miles to get around. Greenlake is one of the most-visited Seattle parks because of its convenience off I-5 and ease of access. Without going out of town, there’s a pocket of green for swimming, running, biking, rec leagues etc. \nThere are a few options for getting in and out of the neighborhood: King County Park & Ride, Ravenna Boulevard bike paths, buses, maybe a kayak across the lake? \nResidents find the area walkable to any imaginable destination: coffee, grocery stores, the library, restaurants. In-keeping with the theme of health and athletics, contained within a small 3-block area there are 10 storefronts having to do with fitness or wellness (spas, barre, running stores). \nDon’t feel like submerging yourself in an immersion tank or doing a bunch of vinyasas? Fix Coffeehouse is a local favorite morning and night, as is the Little Red Hen, St. Andrews, and Latona Pub.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "green-lake"
+  },
+  {
+    "id": 8,
+    "title": "High Point",
+    "description": "Just inland from the touristy Waterfront, Denny Triangle is a connection between Pike Place and South Lake Union. Three corners of cityscape feature high-rise condos, Amazon globular architecture, a Whole Foods and boutique hotels. \nThere are some holdouts from the older neighborhood. Re-Bar stands out as a local, gay-friendly favorite for dancing and drinks. Various delis and 7-elevens dot the street corners and residents stop in for essentials. Newcomer establishments include upscale restaurants like Barolo, which often have an out-of-town crowd, but even locals can't resist a good happy hour. \nDenny Triangle’s connection to the rest of the city is mainly through buses down the main drag (Denny Way), but it is also close to the Westlake Light Rail station.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name"
+  },
+  {
+    "id": 9,
+    "title": "Lake City",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "lake-city"
+  },
+  {
+    "id": 10,
+    "title": "Lower Queen Anne",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "lower-queen-anne"
+  },
+  {
+    "id": 11,
+    "title": "North Beacon Hill",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "beacon-hill"
+  },
+  {
+    "id": 12,
+    "title": "South Lake Union",
+    "description": "Summed up in one word, South Lake Union is “Amazon.” Much of the housing, eating and living is centered around the patterns of workday employees, from Amazon and various research and service facilities throughout the district. Nevertheless, those amenities are stellar, and have a lot to offer a newcomer to Seattle.\r\nHealthy cafes, such as Hurry Curry and Veggie Grill, are on every corner, are generally open Monday through Friday, offering a variety of cuisines. Because of a post-work crush, most restaurants and bars have food and drink happy hours, making beer prices if not reasonable, at least comparable with the rest of the city.\r\nThe neighborhood connects with the Cheshiahud Lake Union Loop, an artery for pedestrians and cyclists to get to funkier Fremont or Eastlake. Seattle’s new and improved trolley system is most prominent in South Lake Union, adding yet another mode of transportation through the neighborhood.\r\nYoga studios and gyms abound, so you will not want for a little bit of physical release after work. There isn't a traditional “greenspace” in the center of SLU. Lake Union Park and the Center for Wooden Boats, though, are a peaceful oasis away from the hustle and bustle of Amazon’s campus.\r\nWhile weekdays buzz in South Lake Union, at night and on weekends, the hive goes to sleep. [Or something like that.] Neighborhood organizers have tried to liven things up with weekend food festivals and other planned events, but you won't find much nightlife on a Saturday night. Some urbanologists have gone so far as to say the scale and sheer newness of the neighborhood render it “soulless.” [http://www.seattletimes.com/life/the-urbanologist-calls-south-lake-union-soulless/] That being said, the area is centrally located in the city, making it an excellent launching pad for a night out. The area is walkable to much of Capitol Hill, downtown as well as Belltown",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "slu"
+  },
+  {
+    "id": 13,
+    "title": "U-District",
+    "description": "The University District can be thought of as a city within a city. The neighborhood is its own little college town revolving around the University of Washington. Restaurants, bars, shopping, everything is catered to college students. Aside from the beautiful UW campus there is plenty to see and do. University Way or “The Ave” is a popular street close to campus that has the best, most authentic Thai food in all of Seattle. This is where you’ll find any and every cuisine your heart could ever desire. If you’re looking for nicer restaurants or high end shopping than you’ll find it at University Village. The up-scale outside shopping area is home to the famous Molly Moons and many other popular shopping and food spots. For the outdoorsy types there are plenty of parks to explore as well. Ravenna and Gasworks are the most popular. If you’re feeling really adventurous the UW Waterfront Activities Center rents out canoes and paddleboards on Lake Washington, but you may want to wait until it’s at least sunny enough to see Mt. Rainier to do this.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name",
+    "gallery": "u-district"
+  },
+  {
+    "id": 14,
+    "title": "West Seattle Junction",
+    "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
+    "image": "test.jpg",
+    "photographer": "photog",
+    "source": "Source Name"
+  }
+]

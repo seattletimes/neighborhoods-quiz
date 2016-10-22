@@ -1,0 +1,21 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "projects-staging.seattletimes.com",
+      "path": ""
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2016/quizzes/neighborhoods-quiz"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2016/quizzes/neighborhoods-quiz/",
+  "slug": "",
+  "tags": [ "quiz" ],
+  "image": "assets/social.jpg",
+  "sheets": ["1i1p9tqCNTrXiMkYIQxIZEPQc6vKV1a4mHfdnR8WeLc8"],
+  "production": false,
+  "embedded": true
+}

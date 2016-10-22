@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "answer": "Flannel",
+    "correct": "9 1 4 11 6"
+  },
+  {
+    "id": 1,
+    "answer": "Heels, or a coat and tie",
+    "correct": "10 3 5 2 12"
+  },
+  {
+    "id": 1,
+    "answer": "A baby carrier",
+    "correct": "14 8 7 4"
+  },
+  {
+    "id": 2,
+    "answer": "Central location for not a ton of money",
+    "correct": "13 1"
+  },
+  {
+    "id": 2,
+    "answer": "Roomy for the price",
+    "correct": "9 14 8 4"
+  },
+  {
+    "id": 2,
+    "answer": "Lots of places to go, things to do",
+    "correct": "6 5 2 10 12"
+  },
+  {
+    "id": 2,
+    "answer": "Close to parks or nature",
+    "correct": "7 3"
+  },
+  {
+    "id": 2,
+    "answer": "Neighbors with diverse interests",
+    "correct": "1 8 11"
+  },
+  {
+    "id": 3,
+    "answer": "Every night",
+    "correct": 5
+  },
+  {
+    "id": 3,
+    "answer": "A few times a week, especially if there's a music show I'd like to see",
+    "correct": "11 1 13 6 5"
+  },
+  {
+    "id": 3,
+    "answer": "I go out when there’s an interesting art show or theater performance",
+    "correct": "10 5"
+  },
+  {
+    "id": 3,
+    "answer": "Out to eat? Most nights",
+    "correct": "1 2 3 4 5 6 7 8 9 10 11 12 13 14"
+  },
+  {
+    "id": 3,
+    "answer": "Depending on which TV shows are in season.",
+    "correct": "1 2 3 4 5 6 7 8 9 10 11 12 13 14"
+  },
+  {
+    "id": 3,
+    "answer": "When I don't have too much work",
+    "correct": "12 2 3"
+  },
+  {
+    "id": 3,
+    "answer": "When I can take my kids to watch a new movie",
+    "correct": "7 14 8 4"
+  },
+  {
+    "id": 4,
+    "answer": "Public transportation",
+    "correct": "13 5 11 1"
+  },
+  {
+    "id": 4,
+    "answer": "Bicycle",
+    "correct": "13 6"
+  },
+  {
+    "id": 4,
+    "answer": "Car",
+    "correct": "9 14 8 4 3 7"
+  },
+  {
+    "id": 4,
+    "answer": "Uber",
+    "correct": "2 12 3 10"
+  },
+  {
+    "id": 4,
+    "answer": "All of the above",
+    "correct": "1 2 3 4 5 6 7 8 9 10 11 12 13 14"
+  },
+  {
+    "id": 5,
+    "answer": "A VW van",
+    "correct": "6 13"
+  },
+  {
+    "id": 5,
+    "answer": "A fuel-efficient commuter vehicle",
+    "correct": "4 9 8"
+  },
+  {
+    "id": 5,
+    "answer": "Tesla",
+    "correct": "3 12"
+  },
+  {
+    "id": 5,
+    "answer": "A four-wheel drive vehicle to get out of the city",
+    "correct": "6 1 11"
+  },
+  {
+    "id": 5,
+    "answer": "A small one, so that I can park it anywhere",
+    "correct": "12 2 10 5"
+  },
+  {
+    "id": 5,
+    "answer": "A car that's great for taking the kids around",
+    "correct": "7 14 8 4 11"
+  },
+  {
+    "id": 6,
+    "answer": "Manhattan",
+    "correct": "10 3 12"
+  },
+  {
+    "id": 6,
+    "answer": "Hard cider",
+    "correct": 5
+  },
+  {
+    "id": 6,
+    "answer": "PBR",
+    "correct": "9 13 4"
+  },
+  {
+    "id": 6,
+    "answer": "Microbrew",
+    "correct": "1 2 6 11"
+  },
+  {
+    "id": 6,
+    "answer": "Kombucha",
+    "correct": "14 8 7"
+  },
+  {
+    "id": 7,
+    "answer": "Jimi Hendrix",
+    "correct": "11 14 8 12"
+  },
+  {
+    "id": 7,
+    "answer": "Sir Mix-a-lot",
+    "correct": "1 4"
+  },
+  {
+    "id": 7,
+    "answer": "Kenny G",
+    "correct": "2 10 7 3"
+  },
+  {
+    "id": 7,
+    "answer": "Nirvana",
+    "correct": "5 9 13"
+  },
+  {
+    "id": 8,
+    "answer": "\"Sleepless in Seattle\"",
+    "correct": "12 8"
+  },
+  {
+    "id": 8,
+    "answer": "\"10 Things I Hate About You\"",
+    "correct": "10 11"
+  },
+  {
+    "id": 8,
+    "answer": "\"Say Anything\"",
+    "correct": "14 7 9"
+  },
+  {
+    "id": 8,
+    "answer": "\"Singles\"",
+    "correct": "5 6 13 4"
+  },
+  {
+    "id": 8,
+    "answer": "\"The Fabulous Baker Boys\"",
+    "correct": "2 1 3"
+  }
+]
