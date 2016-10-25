@@ -7,7 +7,8 @@
   {
     "id": 2,
     "question": "What’s your top priority when looking for an apartment?",
-    "image": "apartment.jpg"
+    "image": "apartment.jpg",
+    "undefined": "** housing?**"
   },
   {
     "id": 3,
@@ -31,12 +32,12 @@
   },
   {
     "id": 7,
-    "question": "Who’s your favorite classic Seattle artist?",
+    "question": "Who’s your favorite classic Seattle musician or band?",
     "image": "celebs.jpg"
   },
   {
     "id": 8,
-    "question": "Which movie would you like to live in?",
+    "question": "Which Seattle-themed movie would you like to live in?",
     "image": "movies.jpg"
   }
 ]
