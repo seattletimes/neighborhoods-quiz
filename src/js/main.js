@@ -9,10 +9,12 @@ var Share = require("share");
 
 var questionTemplate = require("./_questionTemplate.html");
 var overviewTemplate = require("./_overviewTemplate.html");
+var galleryTemplate = require("../partials/_gallery.html");
 
 // Set up templates
 ich.addTemplate("questionTemplate", questionTemplate);
 ich.addTemplate("overviewTemplate", overviewTemplate);
+ich.addTemplate("galleryTemplate", galleryTemplate);
 
 
 
@@ -99,6 +101,7 @@ var id = 1;
 
     // display result
     $(".quiz-box").html(ich.overviewTemplate(result));
+    $(".results-image").html(ich.galleryTemplate(result));
 
     $(".retake").removeClass("hidden");
     new Share(".share-button", {
