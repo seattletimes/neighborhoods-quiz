@@ -1,6 +1,6 @@
 require("./lib/social");
 require("./lib/ads");
-require("./lib/gallery.js");
+var initGallery = require("./lib/gallery.js");
 var track = require("./lib/tracking");
 
 var $ = require("jquery");
@@ -101,8 +101,15 @@ var id = 8;
 
     // display result
     $(".quiz-box").html(ich.overviewTemplate(result));
-    $(".results-image").html(ich.galleryTemplate(result));
-    console.log(result)
+
+    var photos = galleryData.filter(function(c) {
+      return c.gallery == result.gallery;
+    });
+    photos.forEach((p, i) => p.index = i)
+    photos[0].first = true;
+
+    $(".results-image").html(ich.galleryTemplate({photos: photos, length: photos.length}));
+    initGallery();
 
     $(".retake").removeClass("hidden");
     new Share(".share-button", {
