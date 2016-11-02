@@ -3,7 +3,17 @@
     "id": 1,
     "title": "Columbia City",
     "description": "Some people call it urban renewal; <a href=\"http://www.seattletimes.com/pacific-nw-magazine/as-the-city-grapples-with-growth-one-question-lingers-whom-is-seattle-being-built-for/\">others call it gentrification</a>. Few neighborhoods in Seattle have transformed more in the past 15 years than Columbia City. (Key exception: South Lake Union.)\nIts convenient South Seattle location – on major bus lines and near light rail – plus historic brick storefronts have attracted a variety of retail and commercial ventures, including a small neighborhood cinema, a bike shop, an ice cream and videogame arcade, numerous restaurants and bars, consignment and gift shops, a gallery, and a couple of live-music venues. Other attractions are a weekly farmers market (May-October), community and cultural centers, a historic branch library and a dog park a bone’s throw away in Genesee.\nRecently, the addition of a PCC and high-rise apartments have increased density, and altered the once-small-scale streetscape. But longtime residents still like Columbia City’s walkability; its mix of people representing many races, religions and incomes; and its friendly, neighborhood feel.  ",
-    "gallery": "columbia-city",
+    "photographer": "photog",
+    "source": "Source Name",
+    "quote-1": "\"this is a quote.\" - name",
+    "quote-2": "\"this is a quote.\" - name",
+    "quote-3": "\"this is a quote.\" - name",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10768.468438392782!2d-122.29773970385214!3d47.565509816910094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906a0c5aa68bb1%3A0xfa602b48f2068cf8!2sColumbia+City%2C+Seattle%2C+WA!5e0!3m2!1sen!2sus!4v1478127022832"
+  },
+  {
+    "id": 2,
+    "title": "Denny Triangle",
+    "description": "Just inland from the touristy Waterfront, Denny Triangle is a connection between Pike Place and South Lake Union. Three corners of cityscape feature high-rise condos, Amazon globular architecture, a Whole Foods and boutique hotels. \nThere are some holdouts from the older neighborhood. Re-Bar stands out as a local, gay-friendly favorite for dancing and drinks. Various delis and 7-elevens dot the street corners and residents stop in for essentials. Newcomer establishments include upscale restaurants like Barolo, which often have an out-of-town crowd, but even locals can't resist a good happy hour. \nDenny Triangle’s connection to the rest of the city is mainly through buses down the main drag (Denny Way), but it is also close to the Westlake Light Rail station. ",
     "photographer": "photog",
     "source": "Source Name",
     "quote-1": "\"this is a quote.\" - name",
@@ -11,26 +21,19 @@
     "quote-3": "\"this is a quote.\" - name"
   },
   {
-    "id": 2,
-    "title": "Denny Triangle",
-    "description": "Just inland from the touristy Waterfront, Denny Triangle is a connection between Pike Place and South Lake Union. Three corners of cityscape feature high-rise condos, Amazon globular architecture, a Whole Foods and boutique hotels. \nThere are some holdouts from the older neighborhood. Re-Bar stands out as a local, gay-friendly favorite for dancing and drinks. Various delis and 7-elevens dot the street corners and residents stop in for essentials. Newcomer establishments include upscale restaurants like Barolo, which often have an out-of-town crowd, but even locals can't resist a good happy hour. \nDenny Triangle’s connection to the rest of the city is mainly through buses down the main drag (Denny Way), but it is also close to the Westlake Light Rail station. ",
-    "gallery": "denny-triangle",
-    "photographer": "photog",
-    "source": "Source Name"
-  },
-  {
     "id": 3,
     "title": "Downtown Bellevue",
     "description": "In the 1880s, settlers who had forged a new community around Meydenbauer Bay named their village Bellevue, meaning “beautiful view” in French. Indeed, even today views of the bay and Lake Washington are spectacular both from local parks and from the windows of sleek, downtown high-rises. \nBellevue's tightly compact, pedestrian-friendly core is filled with skyscrapers and loads of shopping and dining options. This urban center is the largest commercial and residential hub of all the Eastside cities, home to large employers like Microsoft, Boeing, T-mobile and Expedia. Its proximity to I-90 and Highway 520 means it’s a quick commute (by bus or car) to downtown Seattle as well. \nDowntown Bellevue is a shopping destination for many and is home to large shopping malls and outdoor complexes, including The Bellevue Collection, with 200 retailers, and the luxurious Shops at The Bravern. \nA green and grassy Downtown Park provides plenty of lawn space to spread out on, as well as rose gardens, a playground and a few walking paths and water features. ",
-    "gallery": "bellevue",
     "photographer": "photog",
-    "source": "Source Name"
+    "source": "Source Name",
+    "quote-1": "\"this is a quote.\" - name",
+    "quote-2": "\"this is a quote.\" - name",
+    "quote-3": "\"this is a quote.\" - name"
   },
   {
     "id": 4,
     "title": "Downtown Renton",
     "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
-    "gallery": "renton",
     "photographer": "photog",
     "source": "Source Name"
   },
@@ -38,7 +41,6 @@
     "id": 5,
     "title": "First Hill and Capitol Hill",
     "description": "Perched on a hill directly east of downtown, Capitol Hill is one of Seattle's most dynamic neighborhoods, boasting a large concentration of art and music venues, bars, restaurants, coffee shops, and thrift stores — hence the inspiration behind Macklemore and Ryan Lewis’ hit song “Thrift Shop.” \nCapitol Hill’s rich music history, which also includes music legends like iconic rock guitarist Jimi Hendrix, 1990s grunge acts Nirvana and Pearl Jam, and rappers DJ Nasty Nes and Sir Mix-a-Lot, is just a small part of this hilly enclave’s cultural tapestry. \nSince the 1960s, the neighborhood has been the heart of the city’s LGBTQ community. In the past decade, much of the Hill’s identity has changed through gentrification. So understanding, engaging, and participating in the local community is strongly encouraged by residents.\nThe densely populated neighborhood has myriad modes of transit options: a Sound Transit Link light rail subway station is situated next to the Hill’s popular Cal Anderson Park; dozens of frequent bus lines move through the area; and a streetcar connects Capitol Hill to its sister neighborhood of First Hill.\n \nFirst Hill is Seattle’s third largest employment cluster, serving as a hub for the region’s medical institutions. It is also home to Seattle University.The neighborhood is noticeable more residential than Capitol Hill.  \nArt lovers can enjoy the free Frye Art Museum; or have dinner and cocktails at the Italian Renaissance designed Sorrento Hotel; attend a concert or book reading in the Roman-revival-styled performance venue called Town Hall Seattle;  or visit the striking century-old St. James Cathedral, with its bells frequently ringing through First Hill.  ",
-    "gallery": "first-capitol-hill",
     "photographer": "photog",
     "source": "Source Name"
   },
@@ -46,7 +48,6 @@
     "id": 6,
     "title": "Frelard",
     "description": "“Frelard.” “Where?” That’s generally how conversations about this lesser-known, liminal neighborhood go. Nestled just between Fremont and Ballard, and south of Phinney Ridge, Frelard (pronounced “free-lard”) offers a relatively quiet pocket where families and free parking abound. Maybe you’ve heard of it via Frelard Pizza Company, a landmark of the area that has set the quirky neighborhood name in stone – perhaps to the dismay of some of its residents who call their home “West Woodland” and other names. \nHowever you feel about the neighborhood’s name, the place has plenty to offer in terms of convenience and geographical position: it’s about a mile away from each of the above neighborhoods, walkable to a Fred Meyer, right along the Burke-Gilman Trail and close to bus lines that will zip you right to Downtown Seattle. The area is a little more bare-bones in terms of businesses – Frelard Pizza, a couple barbecue spots and breweries are among the main attractions – but you are a mile away from Fremont and Ballard, after all. Just hop on a bike along the Burke-Gilman and you’ll be there in a jiffy.",
-    "gallery": "frelard",
     "photographer": "photog",
     "source": "Source Name"
   },
@@ -54,7 +55,6 @@
     "id": 7,
     "title": "Green Lake",
     "description": "Summed up in one word, Green Lake is recreation. The neighborhood is defined by what it surrounds: a natural oasis that takes 2.8 miles to get around. Greenlake is one of the most-visited Seattle parks because of its convenience off I-5 and ease of access. Without going out of town, there’s a pocket of green for swimming, running, biking, rec leagues etc. \nThere are a few options for getting in and out of the neighborhood: King County Park & Ride, Ravenna Boulevard bike paths, buses, maybe a kayak across the lake? \nResidents find the area walkable to any imaginable destination: coffee, grocery stores, the library, restaurants. In-keeping with the theme of health and athletics, contained within a small 3-block area there are 10 storefronts having to do with fitness or wellness (spas, barre, running stores). \nDon’t feel like submerging yourself in an immersion tank or doing a bunch of vinyasas? Fix Coffeehouse is a local favorite morning and night, as is the Little Red Hen, St. Andrews, and Latona Pub.",
-    "gallery": "green-lake",
     "photographer": "photog",
     "source": "Source Name"
   },
@@ -62,7 +62,6 @@
     "id": 8,
     "title": "High Point",
     "description": "Just inland from the touristy Waterfront, Denny Triangle is a connection between Pike Place and South Lake Union. Three corners of cityscape feature high-rise condos, Amazon globular architecture, a Whole Foods and boutique hotels. \nThere are some holdouts from the older neighborhood. Re-Bar stands out as a local, gay-friendly favorite for dancing and drinks. Various delis and 7-elevens dot the street corners and residents stop in for essentials. Newcomer establishments include upscale restaurants like Barolo, which often have an out-of-town crowd, but even locals can't resist a good happy hour. \nDenny Triangle’s connection to the rest of the city is mainly through buses down the main drag (Denny Way), but it is also close to the Westlake Light Rail station.",
-    "gallery": "high-point",
     "photographer": "photog",
     "source": "Source Name"
   },
@@ -70,7 +69,6 @@
     "id": 9,
     "title": "Lake City",
     "description": "Cupcake ipsum dolor sit amet icing cake. Cupcake macaroon marshmallow gummi bears pie. Halvah jelly bonbon candy canes icing muffin.",
-    "gallery": "lake-city",
     "photographer": "photog",
     "source": "Source Name"
   },
@@ -78,7 +76,6 @@
     "id": 10,
     "title": "Lower Queen Anne",
     "description": "Lower Queen Anne is a hub of entertainment spots, all within close walking distance, from low to high brow. On the same strip as Ozzie’s (an iconic dive with karaoke) are three famous theaters (Seattle Repertory, Cornish Playhouse and McCaw Hall) among a few other venues hosting theater, dance, international films, and even a circus.\nSome of the biggest attractions in the city are in Lower Queen Anne's Seattle Center complex. These include the Space Needle, the Chihuly Garden and Glass Museum, the EMP Museum and the Pacific Science Center. The neighborhood also has a few nearby parks, including the quirky Counterbalance Park and Kerry Park uphill. Hungry? Dine in Toulouse for Creole, Pesos for breakfast huevos rancheros or Ten Mercer for a hip atmosphere. \nBuses and streetcars frequent the area, if you don’t want walk 20 minutes to South Lake Union or 30 minutes downtown. The Elliot Bay Trail borders the bottom half of the neighborhood, connecting commuters with downtown or Magnolia. You'll often see residents of Lower Queen Anne walking or biking home from Pike Place on the trail, local flowers and produce in hand.",
-    "gallery": "lower-queen-anne",
     "photographer": "photog",
     "source": "Source Name"
   },
@@ -86,31 +83,31 @@
     "id": 11,
     "title": "North Beacon Hill",
     "description": "Long one of the last bastions of affordable in-city housing in Seattle, in recent years Beacon Hill has become a mini-boomtown, with rental and real estate prices accelerating at an unprecedented pace. In June 2016, The Seattle Times reported that home prices were up 41 percent year-over-year and the north half of the hill (from Jefferson Park northward) is the hottest half of the overheated market.\n \nWhy? Light rail. A gem of a branch library. A public golf course. A sprawling park with sweeping views, a skatepark and a water-play area. Great elementary and middle schools; a popular high-school STEM program. Filipino, Mexican, Italian and East Indian restaurants serving a polyglot clientele. And where else in town can you find Samoan cricket teams playing on a perfect green lawn on a summer morning?\n \nAll this less than four miles from Pike Place Market.\n \nLooking for nightlife? You’d be better off in nearby Columbia City or heading north to Capitol Hill. But for family-friendly amenities and convenience (easy I-5 and I-90 access) North Beacon Hill is a prime choice.",
-    "gallery": "beacon-hill",
     "photographer": "photog",
-    "source": "Source Name"
+    "source": "Source Name",
+    "quote-1": "beacon-hill"
   },
   {
     "id": 12,
     "title": "South Lake Union",
-    "description": "Summed up in one word, South Lake Union is “Amazon.” Much of the housing, eating and living is centered around the patterns of workday employees, from Amazon and various research and service facilities throughout the district. Nevertheless, those amenities are stellar, and have a lot to offer a newcomer to Seattle.\r\nHealthy cafes, such as Hurry Curry and Veggie Grill, are on every corner, are generally open Monday through Friday, offering a variety of cuisines. Because of a post-work crush, most restaurants and bars have food and drink happy hours, making beer prices if not reasonable, at least comparable with the rest of the city.\r\nThe neighborhood connects with the Cheshiahud Lake Union Loop, an artery for pedestrians and cyclists to get to funkier Fremont or Eastlake. Seattle’s new and improved trolley system is most prominent in South Lake Union, adding yet another mode of transportation through the neighborhood.\r\nYoga studios and gyms abound, so you will not want for a little bit of physical release after work. There isn't a traditional “greenspace” in the center of SLU. Lake Union Park and the Center for Wooden Boats, though, are a peaceful oasis away from the hustle and bustle of Amazon’s campus.\r\nWhile weekdays buzz in South Lake Union, at night and on weekends, the hive goes to sleep. [Or something like that.] Neighborhood organizers have tried to liven things up with weekend food festivals and other planned events, but you won't find much nightlife on a Saturday night. Some urbanologists have gone so far as to say the scale and sheer newness of the neighborhood render it “soulless.” [http://www.seattletimes.com/life/the-urbanologist-calls-south-lake-union-soulless/] That being said, the area is centrally located in the city, making it an excellent launching pad for a night out. The area is walkable to much of Capitol Hill, downtown as well as Belltown",
-    "gallery": "slu",
+    "description": "Summed up in one word, South Lake Union is “Amazon.” Much of the housing, eating and living is centered around the patterns of workday employees, from Amazon and various research and service facilities throughout the district. Nevertheless, those amenities are stellar, and have a lot to offer a newcomer to Seattle.\nHealthy cafes, such as Hurry Curry and Veggie Grill, are on every corner, are generally open Monday through Friday, offering a variety of cuisines. Because of a post-work crush, most restaurants and bars have food and drink happy hours, making beer prices if not reasonable, at least comparable with the rest of the city.\nThe neighborhood connects with the Cheshiahud Lake Union Loop, an artery for pedestrians and cyclists to get to funkier Fremont or Eastlake. Seattle’s new and improved trolley system is most prominent in South Lake Union, adding yet another mode of transportation through the neighborhood.\nYoga studios and gyms abound, so you will not want for a little bit of physical release after work. There isn't a traditional “greenspace” in the center of SLU. Lake Union Park and the Center for Wooden Boats, though, are a peaceful oasis away from the hustle and bustle of Amazon’s campus.\nWhile weekdays buzz in South Lake Union, at night and on weekends, the hive goes to sleep. [Or something like that.] Neighborhood organizers have tried to liven things up with weekend food festivals and other planned events, but you won't find much nightlife on a Saturday night. Some urbanologists have gone so far as to say the scale and sheer newness of the neighborhood render it “soulless.” [http://www.seattletimes.com/life/the-urbanologist-calls-south-lake-union-soulless/] That being said, the area is centrally located in the city, making it an excellent launching pad for a night out. The area is walkable to much of Capitol Hill, downtown as well as Belltown",
     "photographer": "photog",
-    "source": "Source Name"
+    "source": "Source Name",
+    "quote-1": "slu",
+    "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10768.468438392782!2d-122.29773970385214!3d47.565509816910094!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906a0c5aa68bb1%3A0xfa602b48f2068cf8!2sColumbia+City%2C+Seattle%2C+WA!5e0!3m2!1sen!2sus!4v1478127022832"
   },
   {
     "id": 13,
     "title": "U-District",
     "description": "The University District can be thought of as a city within a city. The neighborhood is its own little college town revolving around the University of Washington. Restaurants, bars, shopping, everything is catered to college students. Aside from the beautiful UW campus there is plenty to see and do. University Way or “The Ave” is a popular street close to campus that has the best, most authentic Thai food in all of Seattle. This is where you’ll find any and every cuisine your heart could ever desire. If you’re looking for nicer restaurants or high end shopping than you’ll find it at University Village. The up-scale outside shopping area is home to the famous Molly Moons and many other popular shopping and food spots. For the outdoorsy types there are plenty of parks to explore as well. Ravenna and Gasworks are the most popular. If you’re feeling really adventurous the UW Waterfront Activities Center rents out canoes and paddleboards on Lake Washington, but you may want to wait until it’s at least sunny enough to see Mt. Rainier to do this.",
-    "gallery": "u-district",
     "photographer": "photog",
-    "source": "Source Name"
+    "source": "Source Name",
+    "quote-1": "u-district"
   },
   {
     "id": 14,
     "title": "West Seattle Junction",
     "description": "The Alaska Junction, often referred to as “The Junction,” is defined by the neighborhood surrounding the intersection of California Avenue SW and SW Alaska Street is lined with shops, places to eat and apartments. It is served the RapidRide C Line that goes to South Lake Union.\nThe area has plenty of places to grab a bite to eat: Itto’s Tapas, serving Moroccan tapas, Ma’ono, with fried chicken and Hawaiian flair, West 5 with traditional American food and Talarico’s Pizzeria where the 14-inch slices are delicious. There are many spots that do late night happy hour in the area for those who work till 5pm. Iconic businesses include Easy Street Records (also serves brunch in the store) and Husky Deli (two words: ice cream). Going north on California you will go through Admiral and eventually come to Alki with scenic views of the Seattle skyline. \nEvery Sunday the intersection is closed to traffic and the West Seattle Farmer’s Market pops up, growing bigger in the summer time. Speaking of summer, the West Seattle Summer Fest closes multiple blocks of California for family fun, food and concerts that highlight local bands.",
-    "gallery": "west-seattle",
     "photographer": "photog",
     "source": "Source Name"
   }
