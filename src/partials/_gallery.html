@@ -1,8 +1,10 @@
 <div class="gallery">
     <div class="image-wrapper">
-      <% var photos = grunt.data.csv.captions.filter(function(c) {
+      <% var photos = grunt.data.json.Quiz_Captions.filter(function(c) {
         return c.gallery == keyword;
       }) %>
+
+      <%= grunt.data.json.Quiz_Captions %>
 
       <% photos.forEach(function(c, i) { %>
           <% if (!i) { %>

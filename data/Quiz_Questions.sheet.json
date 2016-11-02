@@ -6,9 +6,8 @@
   },
   {
     "id": 2,
-    "question": "What’s your top priority when looking for an apartment?",
-    "image": "apartment.jpg",
-    "undefined": "** housing?**"
+    "question": "What’s your top priority when looking for a rental?",
+    "image": "apartment.jpg"
   },
   {
     "id": 3,

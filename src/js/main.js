@@ -43,7 +43,7 @@ var watchInput = function() {
   }));
 };
 
-var id = 1;
+var id = 8;
 
 
 
@@ -102,6 +102,7 @@ var id = 1;
     // display result
     $(".quiz-box").html(ich.overviewTemplate(result));
     $(".results-image").html(ich.galleryTemplate(result));
+    console.log(result)
 
     $(".retake").removeClass("hidden");
     new Share(".share-button", {
