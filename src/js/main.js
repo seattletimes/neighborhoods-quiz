@@ -101,7 +101,7 @@ var id = 8;
 
     // display result
     $(".quiz-box").html(ich.overviewTemplate(result));
-    $(".results-image").html(ich.galleryTemplate(result));
+    $(".results-image").html(ich.galleryTemplate(result.title));
     console.log(result)
 
     $(".retake").removeClass("hidden");
