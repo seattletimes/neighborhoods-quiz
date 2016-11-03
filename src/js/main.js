@@ -103,7 +103,7 @@ var id = 8;
     $(".quiz-box").html(ich.overviewTemplate(result));
 
     var photos = galleryData.filter(function(c) {
-     return c.gallery == result.gallery;
+       return c.gallery == result.title;
     });
     photos.forEach((p, i) => p.index = i)
     photos[0].first = true;
