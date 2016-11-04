@@ -10,11 +10,13 @@ var Share = require("share");
 var questionTemplate = require("./_questionTemplate.html");
 var overviewTemplate = require("./_overviewTemplate.html");
 var galleryTemplate = require("../partials/_gallery.html");
+var additionalResultsTemplate = require("../partials/_additionalResults.html");
 
 // Set up templates
 ich.addTemplate("questionTemplate", questionTemplate);
 ich.addTemplate("overviewTemplate", overviewTemplate);
 ich.addTemplate("galleryTemplate", galleryTemplate);
+ich.addTemplate("additionalResultsTemplate", additionalResultsTemplate);
 
 
 
@@ -111,16 +113,18 @@ var id = 1;
     $(".results-image").html(ich.galleryTemplate({photos: photos, length: photos.length}));
     initGallery();
 
+    $(".additional-results").html(ich.additionalResultsTemplate());
+
     $(".retake").removeClass("hidden");
     new Share(".share-button", {
-          description: "I got " + result.title + "! " + document.querySelector(`meta[property="og:description"]`).innerHTML,
+          description: "I got " + result.title + "! Which Seattle-area neighborhood are you?" + document.querySelector(`meta[property="og:description"]`).innerHTML,
           ui: {
             flyout: "bottom right",
             button_text: "Share results"
           },
           networks: {
             email: {
-              description: "I got " + result.title + "! " + [document.querySelector(`meta[property="og:description"]`).innerHTML, window.location.href].join("\n")
+              description: "I got " + result.title + "! Which Seattle-area neighborhood are you?" + [document.querySelector(`meta[property="og:description"]`).innerHTML, window.location.href].join("\n")
             }
           }
         });
