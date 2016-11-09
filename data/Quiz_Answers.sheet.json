@@ -41,32 +41,22 @@
   },
   {
     "id": 3,
-    "answer": "Every night",
-    "correct": 5
-  },
-  {
-    "id": 3,
     "answer": "A few times a week, especially if there's a music show I'd like to see",
     "correct": "11 1 13 6 5"
   },
   {
     "id": 3,
-    "answer": "I go out when there’s an interesting art show or theater performance",
+    "answer": "I go out when there’s an interesting art or theater show",
     "correct": "10 5"
   },
   {
     "id": 3,
-    "answer": "Whenever I want to try a new restaurant",
+    "answer": "To try a new eatery",
     "correct": "1 2 3 4 5 6 7 8 9 10 11 12 13 14"
   },
   {
     "id": 3,
-    "answer": "Depending on which TV shows are in season.",
-    "correct": "1 2 3 4 5 6 7 8 9 10 11 12 13 14"
-  },
-  {
-    "id": 3,
-    "answer": "When I don't have too much work",
+    "answer": "When I don't have much work",
     "correct": "12 2 3"
   },
   {
@@ -111,22 +101,22 @@
   },
   {
     "id": 5,
-    "answer": "Tesla",
+    "answer": "A Tesla",
     "correct": "3 12"
   },
   {
     "id": 5,
-    "answer": "A four-wheel drive vehicle to get out of the city",
+    "answer": "Four-wheel drive to escape",
     "correct": "6 1 11"
   },
   {
     "id": 5,
-    "answer": "A small one, so that I can park it anywhere",
+    "answer": "A small one, for parking ease",
     "correct": "12 2 10 5"
   },
   {
     "id": 5,
-    "answer": "A car that's great for taking the kids around",
+    "answer": "A car made for schlepping kids",
     "correct": "7 14 8 4 11"
   },
   {
