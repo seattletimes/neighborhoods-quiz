@@ -25,6 +25,7 @@
     "icanhaz": "^0.10.3",
     "jquery": "^2.1.4",
     "less": "^2.0.0",
+    "lodash.shuffle": "^4.2.0",
     "mime": "^1.2.11",
     "shelljs": "^0.5.1",
     "through2": "^2.0.0",
