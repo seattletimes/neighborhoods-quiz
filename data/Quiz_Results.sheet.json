@@ -8,7 +8,8 @@
     "quote-1": "\"Being that we’re so close to the light-rail, that kind of seriously inflates prices around here. But if you can afford it, definitely go for it. It’s probably the perfect spot because we’re like halfway from the airport and halfway from the city.\" - Marlo, AGE",
     "quote-2": "\"The easy accessibility for me in my wheelchair and just the general vibe -- it’s just really energetic and lively, and there’s lots of great places to shop, eat, drink.\" - Stuart Marr, 52",
     "quote-3": "\"I like that it’s fresh and it’s up-and-coming, but it also has its own roots in the neighborhoods that aren’t being really pushed out as quickly as other neighborhoods. There’s a lot of diversity here and the diversity that is dissipating is also replaced with an acknowledgement and respect for that diversity.\" - Shaina Sheperd, 25",
-    "map": "results/columbiacity.jpg"
+    "map": "results/columbiacity.jpg",
+    "thumbnail": "results/columbiacity.jpg"
   },
   {
     "id": 2,
@@ -19,7 +20,8 @@
     "quote-1": "\"There’s lots of really new, innovative stuff to do, new cool restaurants. I mean the whole new Amazon building itself has put in so many groovy things underneath.\" - Lisa Weeks, 42",
     "quote-2": "“It’s close to work. Lots of good restaurants around. Comfortable in just the terms of what I’m accustomed to — I’m from Atlanta — so, I was living downtown in Atlanta. I wanted to live in an urban kind of part of town.” - Nick Smith, 30",
     "quote-3": "\"Love it. Love it. Everything is walking distance. That’s really important to me. As a matter of fact, I just got rid of my car. Going totally on foot.\" - Tom Brown, 65",
-    "map": "results/dennytriangle.jpg"
+    "map": "results/dennytriangle.jpg",
+    "thumbnail": "results/dennytriangle.jpg"
   },
   {
     "id": 3,
@@ -30,7 +32,8 @@
     "quote-1": "“It’s a great area. It’s a great area, you know, like for a school. The school system is really good. Everybody is so friendly and nice. You can’t really beat it. It’s a nice neighborhood. I really like it.\" - Sandra Lopez, 30",
     "quote-2": "“I love it —mostly the parks, I think. I love the parks and I just walk to everything.” - Julie Delo, 50",
     "quote-3": "\"“It’s a little crowded. Parking is a little bit of an issue, especially where I live.” - Archit Shivaprakash, 38",
-    "map": "results/bellevue.jpg"
+    "map": "results/bellevue.jpg",
+    "thumbnail": "results/bellevue.jpg"
   },
   {
     "id": 4,
@@ -38,10 +41,11 @@
     "description": "Formerly one of Seattle’s most overlooked and often disregarded King County neighbors, Renton has been reinventing itself in the new millennium. As the home of the new Seahawks training facility, some of the region’s top stores and the “Ahead of the curve” marketing campaign, the city is stepping up to be noticed. The neighborhood is bordered on the north by Lake Washington and popular Gene Coulon Park; to the west by Rainier Avenue’s commercial strip and access to Interstate 405 and Highway 167; to the south by I-405, and to the east by the freeway and The Landing, a massive development encompassing retail, restaurants, entertainment venues and residential units. Inside this loop is a quaint, old-fashioned downtown and a mix of new and old homes, many with old-fashioned prices. Streets of older single-family homes are right around the corner from shops and restaurants in historic buildings along South Third Street, along with new condos and apartment buildings and the Renton Transit Center and Piazza community park. ",
     "photographer": "photog",
     "source": "Source Name",
-    "quote-1": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-2": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-3": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "map": "results/renton.jpg"
+    "quote-1": "\"I love the neighborhood. I love the diversity. The ability to come to any park the local neighborhood.\" - Joshua Murry, 28, lives in Capitol Hill",
+    "quote-2": "\"I like my neighborhood, I guess, because they’re trying to improve it. Skyway’s so old, and they’re trying to put new buildings in.\" - Tiana Harris, 16",
+    "quote-3": "\"It’s getting kinda congested. Packed, a lot of people. It’s a very neutral area so it’s connected to a lot of different cities, so there are a lot of people moving around here.\" - Jaron Dickson, 24 ",
+    "map": "results/renton.jpg",
+    "thumbnail": "results/renton.jpg"
   },
   {
     "id": 5,
@@ -50,9 +54,10 @@
     "photographer": "photog",
     "source": "Source Name",
     "quote-1": "\"I love the neighborhood. I love the diversity. The ability to come to any park the local neighborhood.\" - Joshua Murry, 28, lives in Capitol Hill",
-    "quote-2": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-3": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "map": "results/capitolhill.jpg"
+    "quote-2": "Quote",
+    "quote-3": "Quote",
+    "map": "results/capitolhill.jpg",
+    "thumbnail": "results/capitolhill.jpg"
   },
   {
     "id": 6,
@@ -60,10 +65,11 @@
     "description": "“Frelard.” “Where?” That’s generally how conversations about this liminal neighborhood go. Nestled just between Fremont and Ballard, and south of Phinney Ridge, Frelard (pronounced “FREE-lard”) offers a relatively quiet pocket where families and free parking abound. Maybe you’ve heard of it via Frelard Pizza Company, a landmark that has set the quirky neighborhood name in stone – perhaps to the dismay of some residents, who call their home West Woodland and other things. Whatever you call it, though, it has plenty to offer in terms of convenience and geographical position: It’s about a mile away from Ballard’s nightlife and Fremont’s shops; near the popular Burke-Gilman Trail (bike to the UW!) and close to bus lines that will zip you downtown. \n",
     "photographer": "photog",
     "source": "Source Name",
-    "quote-1": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-2": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-3": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "map": "results/frelard.jpg"
+    "quote-1": "\"One thing that we like about here is that it's really walkable. There's a lot of great restaurants so sometimes we'll go on a walk as a family and then eat dinner.\" Elyse Lambeth, 35",
+    "quote-2": "\"I love that is so close to everything but it feels tucked away and pretty quiet.\" -Blaze Bratcher, 29",
+    "quote-3": "\"I had grown up farther out in Seattle and I wanted a neighborhood with sidewalks and bus service and right here we have both of those things.\" - Shirley Riley, 65",
+    "map": "results/frelard.jpg",
+    "thumbnail": "results/frelard.jpg"
   },
   {
     "id": 7,
@@ -74,7 +80,8 @@
     "quote-1": "\"Green Lake is a very excellent neighborhood to consider moving into because you’re so close to activities if you’re an activity-driven person, you’re so close to the city if that’s where you want to go or if you’re working in there. [Highway] 99 is a great option right now.\" - Bob Reed, 30",
     "quote-2": "“It’s good to see people out doing exercise. I mean there’s yoga studios, pure barre, and then the running and bike trails. There’s the dunes over here that people can bike down.” - Elliot Specht, 29",
     "quote-3": "“I like the convenience of it. I love to come down here and see all the people working out. If I had a dime for every time I’ve been around this lake, I could buy a new car.” - Doug Hortin, 74",
-    "map": "results/greenlake.jpg"
+    "map": "results/greenlake.jpg",
+    "thumbnail": "results/greenlake.jpg"
   },
   {
     "id": 8,
@@ -82,10 +89,11 @@
     "description": "Just south of West Seattle's bustling strip is High Point neighborhood, a quiet, green oasis with excellent housing options and amenities for families. The Neighborhood House a central community center, offering family and health services, along with fun programs like free guitar lessons. An extensive park system, especially considering the small size of the neighborhood, is the most standout feature of High Point. Multiple playgrounds and playfields are inviting places for young and old people to get outside. \nBeing somewhat isolated in West Seattle, High Point doesn't have as strong a transit infrastructure as other parts of the city. It takes a while to get downtown and elsewhere in the city. Another complaint is a lack closeby grocery stores, but the neighborhood is close to one of the few Halal butcher shops in the city. ",
     "photographer": "photog",
     "source": "Source Name",
-    "quote-1": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-2": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-3": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "map": "results/highpoint.jpg"
+    "quote-1": "\"I like that it's community-based. The neighbhors, and everyone is friendly. I also like this community center here. Last summer, they gave free guitar lessons. My brother went and he loved it.\" - Danait Tsegay, 20",
+    "quote-2": "\"It's a good place to live, lots of parks, a lot of people coming together to chill.\" - Jonathan Acker, 25 ",
+    "quote-3": "\"Actually we don't have close grocery stores here. That's one thing we really need. The closest grocery store, it's Westwood Village, or we have to go to Safeway down on Roxbury. People who don't have a car, it's very difficult for them to get to shopping.\" - Hanna Nur, 35",
+    "map": "results/highpoint.jpg",
+    "thumbnail": "results/highpoint.jpg"
   },
   {
     "id": 9,
@@ -96,7 +104,8 @@
     "quote-1": "\"It’ just not the place to live anymore. As a neighborhood. There’s nothing like “oh I want to live in lake city because there’s this, this and this. You know, ballard and fremont have the bars, and the locks , all that. And we’re not quite there yet.\" - Barbara McCann, 35",
     "quote-2": "“I certainly like that everything is in walking distance, since we don’t have our car. That’s really like the main thing that I like about it, honestly.” - Kelsey Cromer, 22",
     "quote-3": "\"I don’t like necessarily the price of things in Lake City because, since  it’s still considered Seattle and it’s a poor area, it makes it very hard for businesses to do anything ‘cause you can’t hire anybody at $15 an hour here, or $13 dollars an hour here right now.\" - Alex Huggins, 24",
-    "map": "results/lakecity.jpg"
+    "map": "results/lakecity.jpg",
+    "thumbnail": "results/lakecity.jpg"
   },
   {
     "id": 10,
@@ -104,10 +113,11 @@
     "description": "Lower Queen Anne is where the highbrow and the lowbrow see eye to eye. Karaoke bars, art-house cinemas, opera, ballet, a high-priced cabaret and more sit nearly side-by-side on Mercer Street, within walking distance. Some of the city’s biggest tourist draws are in the neighborhood’s Seattle Center complex, including the Space Needle, Chihuly Garden and Glass, EMP Museum and the Pacific Science Center. Hungry? Dine at Toulouse for Creole, Pesos for breakfast huevos rancheros or Ten Mercer for a swanky atmosphere. Buses and streetcars frequent the area, if you don’t want walk 20 minutes to South Lake Union or 30 minutes downtown. And the Elliott Bay Trail borders the bottom half of the neighborhood, connecting commuters with downtown or Magnolia. You'll often see residents of Lower Queen Anne walking or biking home from Pike Place on the trail, local flowers and produce in hand. ",
     "photographer": "photog",
     "source": "Source Name",
-    "quote-1": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-2": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
+    "quote-1": "\"Theater obviously, Seattle center and Seattle rep. It's what attracted me to living downtown.\" - Peter Herford, 80",
+    "quote-2": "\"It's getting pretty dense, traffic, parking, but that is any city with growing pains. It is fairly gentrified but I guess Seattle as a whole is heading in that direction.\" - Martin Forde, 23",
     "quote-3": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "map": "results/lowerqueenanne.jpg"
+    "map": "results/lowerqueenanne.jpg",
+    "thumbnail": "results/lowerqueenanne.jpg"
   },
   {
     "id": 11,
@@ -116,9 +126,10 @@
     "photographer": "photog",
     "source": "Source Name",
     "quote-1": "\"Since the light rail opened up, it’s really easy to get around. Even before that it was easy to, you know, be closer to downtown or get out of the city, hop on I-5 and all that. \nIt’s becoming gentrified like anywhere else. Parking has become worse.You just see the neighborhood changing.\" - Kris Ikegami, 41",
-    "quote-2": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-3": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "map": "results/northbeaconhill.jpg"
+    "quote-2": "\"To get out of Capitol Hill a little bit, we decided on Beacon Hill, because it was more affordable for us, and more diverse.\" - Megan Le, 36",
+    "quote-3": "\"It hasn't impacted us yet, but parking will get pretty bad here.\" - David Le, 38",
+    "map": "results/northbeaconhill.jpg",
+    "thumbnail": "results/northbeaconhill.jpg"
   },
   {
     "id": 12,
@@ -129,7 +140,8 @@
     "quote-1": "“There’s always a festival on. So last week there was a block party thing. This weekend it’s a food festival. So we always go to those because they’re free, and they’re community.” - Peita Dixon, 31",
     "quote-2": "“Comparing to New York or a city like that, it’s not that old and not that dirty and not that crowded. That’s why I love it here. And by the lake, there’s a lot of Pokemon.” - Susan Xie, 19",
     "quote-3": "“I’ve heard that it [South Lake Union] has gotten better. It feels kind of corporate still. It feels very Amazon-run.”  - Sarah Fawzy, 32",
-    "map": "results/southlakeunion.jpg"
+    "map": "results/southlakeunion.jpg",
+    "thumbnail": "results/southlakeunion.jpg"
   },
   {
     "id": 13,
@@ -140,7 +152,8 @@
     "quote-1": "\"The houses are kind of small. There are tons of parks around here, tons of little kids. It’s really great for me babysitting when I was younger. It’s also a big pull for families because there are so many schools closeby.\" - Thea Westlake, 19",
     "quote-2": "\"It’s diverse. It’s very centric. It is accessible. I work north of here so I always drive against traffic. And going to downtown is a bus away. It’s very accessible to public transportation. My kids, Erik and Maria they are both teenage, and they both don’t need to drive. They’re not interested in driving.\" - Alina Acheson, 56",
     "quote-3": "\"It’s really safe. There’s a lot of stuff closeby as far as restaurants and grocery stores. it’ s really centrally located in Seattle.\" - Matt Starwich, 23",
-    "map": "results/universitydistrict.jpg"
+    "map": "results/universitydistrict.jpg",
+    "thumbnail": "results/universitydistrict.jpg"
   },
   {
     "id": 14,
@@ -148,9 +161,10 @@
     "description": "Separated by a bridge from Seattle proper, West Seattle has the small-town, down-to-earth feel of Jet City in the ‘70s, before dot.com dollars changed everything. The Alaska Junction, often simply called The Junction, is a cluster of shops, restaurants and apartments fanning out from the intersection of California Avenue Southwest and Southwest Alaska Street, featuring local favorites Easy Street Records (also serves brunch in the store) and the Husky Deli (two words: ice cream). The scale is walkable; the vibe family-friendly. Heading north on California, you’ll pass through the Admiral district and eventually come to Alki, with its broad waterfront boulevard and views of the Seattle skyline. Go south and you’ll encounter the green expanse of Lincoln Park. Every Sunday, the Junction is closed to traffic and the West Seattle Farmer’s Market pops up, growing bigger in the summer time. And speaking of summer, the West Seattle Summer Fest closes multiple blocks of California for family fun, food and concerts that highlight local bands. The Junction is served by the RapidRide C line which connects it to South Lake Union and downtown.",
     "photographer": "photog",
     "source": "Source Name",
-    "quote-1": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-2": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "quote-3": "\"this is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quotethis is a quote.\" - name",
-    "map": "results/westseattlejunction.jpg"
+    "quote-1": "\"There's not enough black people here. There weren't when we moved here and there aren't now. And that I see as a problem. I would like to see more people that look like me… working in the stores as well as living here.\" - Linda Kennedy, 30 year West Seattle resident. ",
+    "quote-2": "\"What do I like about the neighborhood? The walkability.\" -Tom Hubbard, 65",
+    "quote-3": " \"It's very liberal, weird. Lots of people running around with tattoos. It's an interesting place. My reference point is DC which tends to be a lot more conservative.\" - Danelle Lee, 45 ",
+    "map": "results/westseattlejunction.jpg",
+    "thumbnail": "results/westseattlejunction.jpg"
   }
 ]
