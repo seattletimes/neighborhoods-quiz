@@ -8,7 +8,7 @@
 
   <a class="share-results"></a>
 
-  <div class="additional-results"></div> <!-- two extra results-->
+  <div class="additional-results"></div> <!-- two extra 	results-->
 
   <div class="quotes">
       <h3 class="quiz-label">What do locals think?</h3>
@@ -26,8 +26,13 @@
   <!--grid of neighborhoods-->
   <div class="neighborhoods-container">
     <div class="grid-container">
-    <img data-id="{{neighborhoods-id" class="neighborhoods-grid-img" src="./assets/stills/{{thumbnail}}">
-      <div class="bio-label"><%= bio.display %> <%= bio.last_name %></div
-  </div>
+    
+    	<% json.Quiz_Results.forEach(function(bio) { %>
+    <tr>
+      <td><img src="<%= bio.thumbnail %>">
+      <td><%= bio.title %>
+    <% }); %>
+
+    </div>
 
 </div>

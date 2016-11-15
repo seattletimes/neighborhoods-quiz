@@ -163,13 +163,33 @@ var displayResult = function(first, final) {
 // neighborhoodsGrid.forEach(function(id)){
 //   var id = 
 // }
+<<<<<<< HEAD
 
 
 
 showQuestion(id);
 watchInput();
+=======
+>>>>>>> origin/master
 
 
+  var neighborhoods = [];
+  for (var option in scores) {
+    options.push({
+      name: option,
+      score: scores[option]
+    });
+  }
+
+  options.sort((a,b) => b.score - a.score);
 
 
+<<<<<<< HEAD
+=======
 
+showQuestion(id);
+watchInput();
+
+
+  });
+>>>>>>> origin/master
