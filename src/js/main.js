@@ -158,11 +158,11 @@ var displayResult = function(first, final) {
 };
 
 
-//for the neighborhoods grid
-var neighborhoodsGrid = $(".neighborhoods-grid-img");
-neighborhoodsGrid.forEach(function(id)){
-  var id = 
-}
+// //for the neighborhoods grid
+// var neighborhoodsGrid = $(".neighborhoods-grid-img");
+// neighborhoodsGrid.forEach(function(id)){
+//   var id = 
+// }
 
 
 
@@ -173,30 +173,3 @@ watchInput();
 
 
 
-
-
-var scores = {};
-
-$(".question-box").on("click", ".submit", function() {
-    // score answer
-    var options = $("input:checked").val().split(" ");
-    options.forEach(function(option) {
-      if (option === "") return;
-      if (!scores[option]) { scores[option] = 0 }
-      scores[option] += 1;
-    });
-
-    if (id < Object.keys(quizData).length) {
-      // move on to next question
-      id += 1;
-      showQuestion(id);
-      $(".submit").removeClass("active");
-      $(".submit").attr("disabled", true);
-      // Change button text on last question
-      if (id == Object.keys(quizData).length) {
-        $(".submit").html("Finish");
-      }
-    } else {
-      calculateResult();
-    }
-  });
