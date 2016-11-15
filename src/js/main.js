@@ -12,12 +12,14 @@ var questionTemplate = require("./_questionTemplate.html");
 var overviewTemplate = require("./_overviewTemplate.html");
 var galleryTemplate = require("../partials/_gallery.html");
 var additionalResultsTemplate = require("./_additionalResults.html");
+var gridTemplate = require("./_gridTemplate.html");
 
 // Set up templates
 ich.addTemplate("questionTemplate", questionTemplate);
 ich.addTemplate("overviewTemplate", overviewTemplate);
 ich.addTemplate("galleryTemplate", galleryTemplate);
 ich.addTemplate("additionalResultsTemplate", additionalResultsTemplate);
+ich.addTemplate("gridTemplate", gridTemplate);
 
 
 
@@ -150,46 +152,35 @@ var displayResult = function(first, final) {
   $(".results-image").html(ich.galleryTemplate({photos: photos, length: photos.length}));
   initGallery();
 
-  console.log(final)
-
-  $(".additional-results").html(ich.additionalResultsTemplate({first:final[0], second:final[1]}));
+  if (final) $(".additional-results").html(ich.additionalResultsTemplate({first:final[0], second:final[1]}));
+  $(".neighborhoods-grid").html(ich.gridTemplate({neighborhoods: resultsData}));
 
   $(".retake").removeClass("hidden");
 };
 
 
-// //for the neighborhoods grid
-// var neighborhoodsGrid = $(".neighborhoods-grid-img");
-// neighborhoodsGrid.forEach(function(id)){
-//   var id = 
-// }
-<<<<<<< HEAD
-
-
 
 showQuestion(id);
 watchInput();
-=======
->>>>>>> origin/master
 
-
-  var neighborhoods = [];
-  for (var option in scores) {
-    options.push({
-      name: option,
-      score: scores[option]
-    });
+$(".quiz-box").on("click", function(e) {
+  if ($(e.target).hasClass("additional-result")) {
+    var neighborhood;
+    resultsData.forEach(function(r) {
+      if (r.title == e.target.id) {
+        neighborhood = r;
+      }
+    })
+    displayResult(neighborhood);
   }
 
-  options.sort((a,b) => b.score - a.score);
-
-
-<<<<<<< HEAD
-=======
-
-showQuestion(id);
-watchInput();
-
-
-  });
->>>>>>> origin/master
+  if ($(e.target).hasClass("grid-card")) {
+    var neighborhood;
+    resultsData.forEach(function(r) {
+      if (r.title == e.target.id) {
+        neighborhood = r;
+      }
+    })
+    displayResult(neighborhood);
+  }
+})
