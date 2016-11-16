@@ -48,7 +48,7 @@ var watchInput = function() {
   }));
 };
 
-var id = 1; //question number
+var id = 8; //question number
 
 var scores = {};
 
@@ -122,6 +122,7 @@ var calculateResult = function() {
   var first = final.shift();
 
   displayResult(first, final);
+  $(".result-name").html(`You got: ${first.title}!`);
 
   new Share(".share-button", {
         description: "I got " + first.title + "! Which Seattle-area neighborhood are you?" + document.querySelector(`meta[property="og:description"]`).innerHTML,
@@ -172,6 +173,7 @@ $(".quiz-box").on("click", function(e) {
       }
     })
     displayResult(neighborhood);
+    $(".result-name").html(neighborhood.title);
   }
 
   if ($(e.target).hasClass("grid-card")) {
@@ -182,5 +184,6 @@ $(".quiz-box").on("click", function(e) {
       }
     })
     displayResult(neighborhood);
+    $(".result-name").html(neighborhood.title);
   }
 })
