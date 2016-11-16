@@ -147,23 +147,40 @@
 
 .additional-result {
   cursor: pointer;
-
-  &:hover {
+  color: @df-blue;
+  &:hover{
     color: @df-darkerblue;
   }
+
 }
 
 .neighborhoods-grid {
   .display-flex();
   .justify-content(space-between);
   .flex-wrap(wrap);
-  padding-top: 20px;
+  padding-top: 10px;
 }
 
 .grid-card {
   .flex(0 0 32%);
   margin-bottom: 30px;
   text-align: left;
+  cursor: pointer;
+
+  color: @df-darkerblue;
+  text-transform: uppercase;
+  font-size: 1.1em;
+  letter-spacing: 0.1em;
+  padding-left: 6px;
+
+  &:hover {
+    color: @df-blue;
+  }
+
+  @media @mobile {
+    font-size: 11px;
+    margin-top: -3px;
+  }
 
   @media @tablet {
     .flex(0 0 49%);
@@ -171,11 +188,12 @@
   @media @mobile {
     margin-bottom: 20px;
   }
+}
 
+div .grid-card img {
   &:hover {
-    .grid-img {
       opacity: 0.7;
-    }
+      cursor: pointer;
   }
 }
 
@@ -183,3 +201,25 @@
 .quotes-map{
     max-width: 100%;
   }
+
+.grid-title {
+  color: #7ba0ab;
+  font-family: 'Paytone One', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  font-weight: 700;
+  font-size: 2em;
+  margin: 5px auto;
+}
+
+
+.neighborhood-label {
+  text-transform: uppercase;
+  font-size: 16px;
+  font-family: 'Paytone One', sans-serif;
+  font-weight: normal;
+  color: @df-darkerblue;
+  display: inline-block;
+  padding: 5px 8px;
+  margin: 5px auto 0;
+}
