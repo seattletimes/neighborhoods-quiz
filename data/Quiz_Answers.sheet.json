@@ -1,43 +1,43 @@
 [
   {
     "id": 1,
-    "answer": "Something casual, maybe a flannel",
-    "correct": "9 1 4 11 6"
-  },
-  {
-    "id": 1,
-    "answer": "A dressy outfit, some heels or a coat and tie",
-    "correct": "10 3 5 2 12"
-  },
-  {
-    "id": 1,
-    "answer": "An outfit that I can easily wear a baby carrier over",
-    "correct": "14 8 7 4"
-  },
-  {
-    "id": 2,
     "answer": "Central location for not a ton of money",
     "correct": "13 1"
   },
   {
-    "id": 2,
+    "id": 1,
     "answer": "Roomy for the price",
     "correct": "9 14 8 4"
   },
   {
-    "id": 2,
+    "id": 1,
     "answer": "Lots of places to go, things to do",
     "correct": "6 5 2 10 12"
   },
   {
-    "id": 2,
+    "id": 1,
     "answer": "Close to parks or nature",
     "correct": "7 3"
   },
   {
-    "id": 2,
+    "id": 1,
     "answer": "Cultural diversity",
     "correct": "1 8 11"
+  },
+  {
+    "id": 2,
+    "answer": "Something casual, maybe a flannel",
+    "correct": "9 1 4 11 6"
+  },
+  {
+    "id": 2,
+    "answer": "A dressy outfit, some heels or a coat and tie",
+    "correct": "10 3 5 2 12"
+  },
+  {
+    "id": 2,
+    "answer": "An outfit that I can easily wear a baby carrier over",
+    "correct": "14 8 7 4"
   },
   {
     "id": 3,

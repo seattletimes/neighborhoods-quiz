@@ -1,13 +1,13 @@
 [
   {
     "id": 1,
-    "question": "On a night out, I prefer to wear …",
-    "image": "clothing.jpg"
+    "question": "What’s your top priority when looking for a rental?",
+    "image": "apartment.jpg"
   },
   {
     "id": 2,
-    "question": "What’s your top priority when looking for a rental?",
-    "image": "apartment.jpg"
+    "question": "On a night out, I prefer to wear …",
+    "image": "clothing.jpg"
   },
   {
     "id": 3,
