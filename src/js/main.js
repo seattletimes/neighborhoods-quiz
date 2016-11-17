@@ -173,6 +173,29 @@ $(".quiz-box").on("click", function(e) {
       }
     })
     displayResult(neighborhood);
+  }
+
+  if ($(e.target).hasClass("grid-card")) {
+    var neighborhood;
+    resultsData.forEach(function(r) {
+      if (r.title == e.target.id) {
+        neighborhood = r;
+      }
+    })
+  }
+})
+
+
+
+$(".quiz-box").on("click", function(e) {
+  if ($(e.target).hasClass("additional-result")) {
+    var neighborhood;
+    resultsData.forEach(function(r) {
+      if (r.title == e.target.id) {
+        neighborhood = r;
+      }
+    })
+    displayResult(neighborhood);
     $(".result-name").html(neighborhood.title);
   }
 
@@ -185,5 +208,18 @@ $(".quiz-box").on("click", function(e) {
     })
     displayResult(neighborhood);
     $(".result-name").html(neighborhood.title);
+  }
+})
+
+
+$(".chatter").on("click", function(e) {
+  if ($(e.target).hasClass("intro-link")) {
+    var neighborhood;
+    resultsData.forEach(function(r) {
+      if (r.title == "Columbia City") {
+        neighborhood = r;
+      }
+    })
+    displayResult(neighborhood);
   }
 })
