@@ -48,7 +48,7 @@ var watchInput = function() {
   }));
 };
 
-var id = 8; //question number
+var id = 1; //question number
 
 var scores = {};
 
