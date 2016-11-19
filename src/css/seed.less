@@ -65,9 +65,14 @@
     display: block;
     color: @second-title-color;
 
-    @media @mobile {
-      font-size: inherit;
+    @media (max-width: 640px) {
+      font-size: 1.2em;
     }
+
+    @media @mobile {
+      font-size: 1em;
+    }
+
   }
 }
 
