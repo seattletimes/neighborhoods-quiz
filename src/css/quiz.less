@@ -156,7 +156,6 @@ button {
   margin: 0 auto 1em auto;
   font-size: 1.1em;
   color: @body-color;
-  padding-bottom: 5px;
   padding-top: 10px;
   display: block;
   }
@@ -195,7 +194,7 @@ button {
   @media @mobile {
     width: 100%;
     padding-top: 5px;
-    padding-bottom: 5px;
+    padding-bottom: 10px;
     padding-left: 0px;  
     display: block;
   }
@@ -223,10 +222,36 @@ button {
 .additional-results {
   max-width: 100%;
   padding-bottom: 15px;
+
+  @media @mobile {
+    display: none;
+  }
 }
 
 .additional-results p {
  text-align: center;
  font-size: 1.1em;
  text-transform: uppercase;
+}
+
+
+.mobile-runnerups {
+  display: hidden;
+
+  @media @mobile{
+  display: block;
+  max-width: 100%;
+  padding-bottom: 15px;
+  }
+}
+
+.mobile-runnerups p {
+  display: none;
+
+  @media @mobile {
+  text-align: center;
+  font-size: 1.1em;
+  text-transform: uppercase;
+  display: block;
+  }
 }

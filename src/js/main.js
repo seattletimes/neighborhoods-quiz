@@ -124,6 +124,7 @@ var calculateResult = function() {
   displayResult(first, final);
   $(".result-name").html(`You got: ${first.title}!`);
 
+
   new Share(".share-button", {
         description: "I got " + first.title + "! Which Seattle-area neighborhood are you?" + document.querySelector(`meta[property="og:description"]`).innerHTML,
         ui: {
@@ -154,12 +155,11 @@ var displayResult = function(first, final) {
   initGallery();
 
   if (final) $(".additional-results").html(ich.additionalResultsTemplate({first:final[0], second:final[1]}));
+  if (final) $(".mobile-runnerups").html(ich.additionalResultsTemplate({first:final[0], second:final[1]}));
   $(".neighborhoods-grid").html(ich.gridTemplate({neighborhoods: resultsData}));
 
   $(".retake").removeClass("hidden");
 };
-
-
 
 showQuestion(id);
 watchInput();
@@ -174,6 +174,18 @@ $(".quiz-box").on("click", function(e) {
     })
     displayResult(neighborhood);
   }
+
+
+  if ($(e.target).hasClass("mobile-runnerups")) {
+      var neighborhood;
+      resultsData.forEach(function(r) {
+        if (r.title == e.target.id) {
+          neighborhood = r;
+        }
+      })
+      displayResult(neighborhood);
+    }
+
 
   if ($(e.target).hasClass("grid-card")) {
     var neighborhood;
@@ -221,5 +233,6 @@ $(".chatter").on("click", function(e) {
       }
     })
     displayResult(neighborhood);
+    $(".result-name").html(neighborhood.title);
   }
 })
