@@ -4,6 +4,8 @@ var shuffle = require("lodash.shuffle");
 var initGallery = require("./lib/gallery.js");
 var track = require("./lib/tracking");
 
+var animateScroll = require("./lib/animateScroll");
+
 var $ = require("jquery");
 var ich = require("icanhaz");
 var Share = require("share");
@@ -48,7 +50,7 @@ var watchInput = function() {
   }));
 };
 
-var id = 1; //question number
+var id = 8; //question number
 
 var scores = {};
 
@@ -209,6 +211,7 @@ $(".quiz-box").on("click", function(e) {
     })
     displayResult(neighborhood);
     $(".result-name").html(neighborhood.title);
+    animateScroll(document.querySelector("#quiz-container"));
   }
 
   if ($(e.target).hasClass("grid-card")) {
@@ -220,6 +223,7 @@ $(".quiz-box").on("click", function(e) {
     })
     displayResult(neighborhood);
     $(".result-name").html(neighborhood.title);
+    animateScroll(document.querySelector("#quiz-container"));
   }
 })
 
