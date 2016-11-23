@@ -9,12 +9,12 @@
       "path": "2016/quizzes/neighborhoods-quiz"
     }
   },
-  "title": "",
-  "description": "",
-  "url": "http://projects.seattletimes.com/2016/quizzes/neighborhoods-quiz/",
+  "title": "Quiz: Find Your Neighborhood",
+  "description": "So, you’ve decided to move to the Emerald City. Which neighborhood is right for you? Take this quiz to narrow your search.",
+  "url": "http://projects-staging.seattletimes.com/neighborhoods-quiz/",
   "slug": "",
   "tags": [ "quiz" ],
-  "image": "assets/social.jpg",
+  "image": "assets/quiz_teaser.jpg",
   "sheets": ["1i1p9tqCNTrXiMkYIQxIZEPQc6vKV1a4mHfdnR8WeLc8"],
   "production": false,
   "embedded": true
