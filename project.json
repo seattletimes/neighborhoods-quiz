@@ -6,16 +6,16 @@
     },
     "live": {
       "bucket": "projects.seattletimes.com",
-      "path": "2016/quizzes/neighborhoods-quiz"
+      "path": "2016/quizzes/seattle-neighborhoods-quiz"
     }
   },
   "title": "Moving to Seattle? Here's where to live. Take our Seattle neighborhoods quiz.",
-  "description": "So, you’ve decided to move to the Emerald City. Which neighborhood is right for you? Take this quiz to narrow your search.",
-  "url": "http://projects-staging.seattletimes.com/neighborhoods-quiz/",
+  "description": "So, you’ve decided to move to the Emerald City. Take this quiz to learn more about neighborhoods in the Seattle area.",
+  "url": "http://projects.seattletimes.com/2016/quizzes/seattle-neighborhoods-quiz/",
   "slug": "",
   "tags": [ "quiz" ],
   "image": "assets/quiz_teaser.jpg",
   "sheets": ["1i1p9tqCNTrXiMkYIQxIZEPQc6vKV1a4mHfdnR8WeLc8"],
-  "production": false,
+  "production": true,
   "embedded": false
 }
