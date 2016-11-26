@@ -239,5 +239,6 @@ $(".chatter").on("click", function(e) {
     })
     displayResult(neighborhood);
     $(".result-name").html(neighborhood.title);
+    animateScroll(document.querySelector("#quiz-container"));
   }
 })
