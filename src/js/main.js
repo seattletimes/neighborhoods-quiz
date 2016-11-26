@@ -23,7 +23,8 @@ ich.addTemplate("galleryTemplate", galleryTemplate);
 ich.addTemplate("additionalResultsTemplate", additionalResultsTemplate);
 ich.addTemplate("gridTemplate", gridTemplate);
 
-
+//insert paragraphs for descriptions
+resultsData.forEach(r => r.description = r.description.replace(/\n/g, "<br>"))
 
 new Share(".share-button", {
   ui: {
