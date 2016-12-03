@@ -16,23 +16,23 @@
   },
   {
     "id": 4,
-    "question": "You’ll likely get around by …",
-    "image": "transportation.jpg"
-  },
-  {
-    "id": 5,
     "question": "Your ideal car is …",
     "image": "car.jpg"
   },
   {
-    "id": 6,
+    "id": 5,
     "question": "Pick your drink:",
     "image": "drinks.jpg"
   },
   {
-    "id": 7,
+    "id": 6,
     "question": "Who’s your favorite classic Seattle musician or band?",
     "image": "celebs.jpg"
+  },
+  {
+    "id": 7,
+    "question": "You’ll likely get around by …",
+    "image": "transportation.jpg"
   },
   {
     "id": 8,
