@@ -218,7 +218,11 @@ $(".quiz-box").on("click", function(e) {
   if ($(e.target).hasClass("grid-card")) {
     var neighborhood;
     resultsData.forEach(function(r) {
-      if (r.title == e.target.id) {
+      if (e.target.id == "Explore other areas") {
+        window.open("http://www.seattletimes.com/category/neighborhood-profiles/");
+        exit();
+      }
+      else if (r.title == e.target.id) {
         neighborhood = r;
       }
     })
@@ -227,6 +231,7 @@ $(".quiz-box").on("click", function(e) {
     animateScroll(document.querySelector("#quiz-container"));
   }
 })
+
 
 
 $(".chatter").on("click", function(e) {
